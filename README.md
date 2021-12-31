@@ -1,4 +1,4 @@
-### Hello, i'am Monke Hu and i make things for the internet
+### Hello, i'am Rharan Ru and i make things for the internet
 #### <blockquote>Getting a little better every day</blockquote>
 <hr />
 
