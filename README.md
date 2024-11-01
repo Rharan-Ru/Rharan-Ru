@@ -1,61 +1,41 @@
-### Hello, i'am Rharan Ru and i make things for the internet
-#### <blockquote>Getting a little better every day</blockquote>
-<hr />
+# Olá! Eu sou Rharan Rufino 👋
 
-<h3 align="left">Languages and Tools:</h3>
-<div>
-  <img src="https://i.gifer.com/origin/64/649852e53b7e4edf15ea1c2f23a61f29_w200.gif" width="40" height="40" alt='PacMan'/>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
+Sou um desenvolvedor FullStack apaixonado por criar soluções eficientes e escaláveis. Trabalho com uma variedade de tecnologias para entregar o melhor resultado possível, sempre buscando me atualizar e aperfeiçoar minhas habilidades. Estou sempre aberto a novas oportunidades e colaborações!
 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
-  </a> 
+## 🌐 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rharan-ru)
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
+## 🚀 Tecnologias e Ferramentas:
 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rharan-Ru&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rharan-Ru&layout=compact&theme=radical&count_private=true)
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
+<img align="right" src="https://jonchaisson.files.wordpress.com/2021/10/anime-writing.gif" height="150" width="300" />
 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  
-  <img align="right" src="https://jonchaisson.files.wordpress.com/2021/10/anime-writing.gif" height="150" width="300" />
-  
-  <hr />
-  
-  <a href="mailto:rharanru@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt='Gmail' />
-  </a>
-  <a href="https://www.linkedin.com/in/rharan-ru/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='Linkedin' />
-  </a>
-  <a href="https://www.instagram.com/monkehu/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt='Instagram' />
-  </a>
-  <a href="https://rharan.herokuapp.com/">
-    <img src="https://camo.githubusercontent.com/a4f6cac3695dcca1a03210fbde4c9ccedb0a2413b1a80d98456d912d325aa85c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d66697265666f78266c6f676f436f6c6f723d23464637313339" />
-  </a>
-</div>
+---
 
+### 🎯 Foco Atual
+- Aprimorar minhas habilidades em arquitetura de microsserviços com NestJS e AWS
+- Contribuir para projetos open source com foco em backend e performance
+- Explorar novas metodologias de teste e automação com Jest e Pytest
 
+---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Rharan-Ru.README&left_color=green&right_color=red)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rharan-Ru&count_private=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rharan-Ru&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![snake gif](https://github.com/Rharan-Ru/Rharan-Ru/blob/output/github-contribution-grid-snake.svg)
+Muito obrigado por visitar meu perfil! Se quiser colaborar em algum projeto ou apenas trocar uma ideia, sinta-se à vontade para entrar em contato.
